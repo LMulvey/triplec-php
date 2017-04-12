@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Triple C Woodworx: At Triple C Woodworx, we made it our priority to find the perfect balance between these key components for every project.<br /><br />
+    <meta name="description" content="Triple C Woodworx: Design, Functionality and Finishing are what gives every home its unique touch.
+    At Triple C Woodworx, we made it our priority to find the perfect balance between these key components for every project.<br /><br />
       Let us help you get the most out of your home renovation.
       We will be happy to hear from you!">
     <meta name="author" content="Marc Bünder">
@@ -33,7 +34,8 @@
 
     <meta property="og:type" content="business.business">
     <meta property="og:title" content="Triple C Woodworx">
-    <meta property="og:description" content="Triple C Woodworx: At Triple C Woodworx, we made it our priority to find the perfect balance between these key components for every project.<br /><br />
+    <meta property="og:description" content="Triple C Woodworx: Design, Functionality and Finishing are what gives every home its unique touch.
+    At Triple C Woodworx, we made it our priority to find the perfect balance between these key components for every project.<br /><br />
           Let us help you get the most out of your home renovation.
           We will be happy to hear from you!">
     <meta property="og:url" content="http://www.triplec.ca">

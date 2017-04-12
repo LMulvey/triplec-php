@@ -115,10 +115,10 @@ section .row .carp-logo {
   color: #fff;
   height: 350px;
   padding-top: 3.3em;
-  transition: opacity 0.2s linear,  font-size 0.2s linear;
-  -webkit-transition: opacity 0.2s linear,  font-size 0.2s linear;
-  -moz-transition: opacity 0.2s linear,  font-size 0.2s linear;
-  -o-transition: opacity 0.2s linear,  font-size 0.2s linear;
+  transition: opacity 0.2s linear,  font-size 0.2s linear, background-image 0.2s linear;
+  -webkit-transition: opacity 0.2s linear,  font-size 0.2s linear, background-image 0.2s linear;
+  -moz-transition: opacity 0.2s linear,  font-size 0.2s linear, background-image 0.2s linear;
+  -o-transition: opacity 0.2s linear,  font-size 0.2s linear, background-image 0.2s linear;
 }
 
 .button-bathrooms:hover,
@@ -135,17 +135,14 @@ section .row .carp-logo {
 }
 
 .button-bathrooms  {
-  background: url('../img/bathroom.png');
   background-size: cover;
 }
 
 .button-kitchens  {
-  background: url('../img/kitchen.png');
   background-size: cover;
 }
 
 .button-others  {
-  background: url('../img/other.png');
   background-size: cover;
   font-size: 3em;
   padding-top: 2.7em;
